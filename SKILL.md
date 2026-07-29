@@ -1,5 +1,5 @@
 ---
-name: head-neck-dvh-plan-review
+name: head-neck-dvh-review
 description: "One-glance DVH plan acceptability assessment for HEAD & NECK radiotherapy — priority-graded OAR constraints (ideal/acceptable tiers), complete SBRT tables (1-15fx from Timmerman 2022), violation severity grading, trade-off decision rules, and actionable dual-report generation."
 version: 1.3.0
 author: Zhu Guopei / Shanghai Ninth People's Hospital
