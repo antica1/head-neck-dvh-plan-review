@@ -3,14 +3,15 @@ name: head-neck-dvh-plan-review
 description: "One-glance DVH plan acceptability assessment for HEAD & NECK radiotherapy — priority-graded OAR constraints (ideal/acceptable tiers), complete SBRT tables (1-15fx from Timmerman 2022), violation severity grading, trade-off decision rules, and actionable dual-report generation."
 version: 1.3.0
 author: Zhu Guopei / Shanghai Ninth People's Hospital
-license: MIT
+license: CC BY-NC-SA 4.0
 metadata:
   hermes:
     tags: [head-neck, radiotherapy, dvh-plan-review, SBRT, OAR-constraints]
     triggers_on: [DVH, 计划审核, 物理师审核, 计划评估, 剂量约束, OAR审核, 靶区覆盖, 脊髓约束, 脑干约束, 视交叉约束, 腮腺约束, SBRT约束, QUANTEC, 双轨制, plan review, plan check, dose constraint, DVH review]
-    related_skills: [shared-knowledge]
     references: ["Timmerman R. IJROBP 2022;112(1):4-21", "H&N IMRT clinical protocol OAR priority table"]
 ---
+
+> **原创声明**：本 Skill 所含临床框架为上海交通大学医学院附属第九人民医院口腔颌面头颈肿瘤科放疗中心原创知识产权。授权采用 CC BY-NC-SA 4.0（署名-非商业-相同方式共享）。引用：朱国培, 上海九院放疗中心. 头颈肿瘤放疗靶区勾画 Skill 系列 [OL]. GitHub: antica1, 2026.
 
 # 头颈肿瘤放疗计划 DVH 快速审核
 
@@ -254,4 +255,3 @@ metadata:
 | AAPM TG-101. SBRT constraints. 2010 | SBRT 早期约束 |
 | UK SABR 2022. PMID:35272913 | SBRT 英国共识 |
 | H&N IMRT clinical protocol OAR priority table | 头颈 IMRT 优先级分层共识 |
-    related_skills: [shared-knowledge]
